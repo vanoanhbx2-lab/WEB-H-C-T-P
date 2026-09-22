@@ -1,0 +1,7 @@
+{
+  "name": "Quản Trị Học Tập THPT – THPT Số 2 Bát Xát",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên và học sinh Trường THPT số 2 Bát Xát. Quản lý bởi: cô Vân Oanh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
